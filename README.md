@@ -1,8 +1,9 @@
 # leetcode
 Leetcode problems solving
 
-ProblemNo   | Title                                                 | Solution Link                                                                         | Tag
-----------  |-------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------
-1041        | Robot Bounded In Circle                               | https://leetcode.com/submissions/detail/621329757/                                    | Array, Microsoft
-1           | Two Sum                                               | https://leetcode.com/submissions/detail/622107157/                                    | Array, Microsoft
+#     | Title                                             | Solution Link                                                                              | Tag
+----  |---------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------
+1041  | Robot Bounded In Circle                           | https://github.com/AnandAwasthi/leetcode/blob/main/LeetCodeProblems/ArrayProblems/P1041.cs | Array, Microsoft
+1     | Two Sum                                           | https://github.com/AnandAwasthi/leetcode/blob/main/LeetCodeProblems/ArrayProblems/P1.cs    | Array, Microsoft
+
 
